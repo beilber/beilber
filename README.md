@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beilber
-- 👀 I’m interested in automation, IOT and gaming
-- 🌱 I’m currently learning C# / Unity
+- 👀 I’m interested in automation, IOT, Data Science and Gaming
+- 🌱 I’m currently learning C# / Unity  and some ML
 - 💞️ I’m looking to collaborate on nothing, doing things Solo for now
 
 
